@@ -1,0 +1,12 @@
+demo\springs\patientdetails\dao\impl\UserDaoImpl.class
+demo\springs\patientdetails\controller\LoginController.class
+demo\springs\patientdetails\service\UserService.class
+demo\springs\patientdetails\viewBean\NewUserBean.class
+demo\springs\patientdetails\model\Profile.class
+demo\springs\patientdetails\service\impl\UserServiceImpl.class
+demo\springs\patientdetails\controller\ProfileController.class
+demo\springs\patientdetails\controller\UserRegistrationController.class
+demo\springs\patientdetails\dao\UserDao.class
+demo\springs\patientdetails\delegate\LoginDelegate.class
+demo\springs\patientdetails\delegate\SignUpDelegate.class
+demo\springs\patientdetails\viewBean\LoginBean.class
