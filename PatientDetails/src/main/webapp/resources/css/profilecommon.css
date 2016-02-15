@@ -1,0 +1,79 @@
+body {
+	background-color: #f4f4f4;
+	color: #5a5656;
+	font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	line-height: 1.5em;
+	margin:0px;
+	padding:0px;
+}
+a { 
+	text-decoration: none;
+	color: #5a5656;
+	font-size: 16px;
+}
+a:hover { 
+	text-decoration: underline;
+}
+div.top_header{
+	padding: 50px 30px;
+	text-align: center;
+	background: #e5e5e5;
+	font-size: 32px;
+	margin:auto;
+	font-weight: bold;
+}
+div.bottom_content{
+}
+div.left_pane{
+	float: left;
+	padding: 20px 60px;
+	width: 20%;
+}
+div.right_pane{
+	float: left;
+	width: 60%;
+}
+div.left_pane a{
+    float: left;
+    padding: 10px;
+    width: 100%;
+}
+.patientDetails {
+	padding: 10px 0;
+}
+.patientDetails label{
+	float: left;
+    font-weight: bold;
+    width: 170px;
+}
+#profileLabel {
+    float: left;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 30px 0 30px;
+    width: 100%;
+}
+#logoutMenu{
+    position:absolute;
+    bottom:0px;
+    right:200px;
+}
+#menu_header{
+position:relative;
+}
+#profile_pic{
+	border-radius:50% 50% 50% 50%; 
+	width:140px;
+	height:140px;	
+	left:80px;
+	top:230px;
+}
+div.right_most_pane{
+	float: right;
+}
+#updatesLabel{
+	font-size: 20px;
+    font-weight: bold;
+   	text-decoration: underline;
+}

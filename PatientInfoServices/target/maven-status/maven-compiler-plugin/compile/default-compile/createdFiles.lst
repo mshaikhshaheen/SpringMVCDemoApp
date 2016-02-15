@@ -1,0 +1,7 @@
+demo\springs\patientservices\dao\DataDao.class
+demo\springs\patientservices\controller\PatientProfileController.class
+demo\springs\patientservices\model\PatientDetails.class
+demo\springs\patientservices\model\Status.class
+demo\springs\patientservices\service\DataServices.class
+demo\springs\patientservices\dao\DataDaoImpl.class
+demo\springs\patientservices\service\DataServicesImpl.class
